@@ -14,11 +14,11 @@
 URL : <a href="https://bienestar.digitalcreations.cl/">bienestar.digitalcreations.cl</a>
 
 ```php
-Usuario Administrador
+-- Usuario Administrador --
 Usuario:    admin@test.cl
 Contraseña: 12345
 
-Usuario Normal
+-- Usuario Normal --
 Usuario:    user1@test.cl
 Contraseña: 12345
 ```
