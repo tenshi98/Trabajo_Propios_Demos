@@ -5,12 +5,11 @@
 
 <p>La plataforma esta dividida en dos plataformas separadas, una plataforma para el acceso de la administración y otra plataforma para el acceso de los socios.</p>
 
+## Usuarios de Acceso
+
 <table width="100%" >
 <tr>
 <td width="60%">
-
-
-## Usuarios de Acceso
 
 URL : <a href="https://bienestar.digitalcreations.cl/">bienestar.digitalcreations.cl</a>
 

@@ -19,12 +19,11 @@
 <li>Envío de correos recordatorios de los servicios (vacunas anuales, retiro mascotas hotel, etc.).</li>
 </ul>
 
+## Demo Plataforma Clientes
+
 <table width="100%" >
 <tr>
 <td width="60%">
-
-
-## Demo Plataforma Clientes
 
 URL :   <a href="https://democliente.simplivet.cl/">democliente.simplivet.cl</a>
 
