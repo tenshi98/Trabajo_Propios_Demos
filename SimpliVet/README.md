@@ -19,6 +19,9 @@
 <li>Envío de correos recordatorios de los servicios (vacunas anuales, retiro mascotas hotel, etc.).</li>
 </ul>
 
+<p>También se cuenta con una plataforma de acceso de los dueños de las mascotas, donde estos pueden agregar, editar y dar de baja a las mascotas, ver las próximas atenciones, el detalle de las próximas vacunas, etc.
+</p>
+
 ## Demo Plataforma Clientes
 
 <table width="100%" >
