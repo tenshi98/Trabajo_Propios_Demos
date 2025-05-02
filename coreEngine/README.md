@@ -34,7 +34,7 @@ Contraseña: 1234
 </td>
 <td>
 
-<img src='https://tenshi98.github.io/portafolio/assets/project/img_7.jpg' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/refs/heads/main/Plataforma%20coreEngine/src/img_0.jpg' />
 
 </td>
 </tr>
