@@ -11,7 +11,7 @@
 <tr>
 <td width="60%">
 
-URL : <a href="https://bienestar.digitalcreations.cl/">bienestar.digitalcreations.cl</a>
+URL : <a target="new" href="https://bienestar.digitalcreations.cl/">bienestar.digitalcreations.cl</a>
 
 ```php
 -- Usuario Administrador --
