@@ -28,7 +28,7 @@
 <tr>
 <td width="60%">
 
-URL :   <a target="new" href="https://democliente.simplivet.cl/">democliente.simplivet.cl</a>
+URL :   <a target="new" href="#">democliente.simplivet.cl</a>
 
 ```php
 Usuario:    demo1@testmail.com
